@@ -1,0 +1,72 @@
+
+.mercurij .mercurij-title {
+    text-align: center;
+}
+
+.mercurij .mercurij-subtitle {
+    margin-top: 5px; 
+    margin-left: 141px; 
+}
+
+.mercurij .mercurij-img {
+    display: block;
+    margin-left:309px ;
+    margin-right: 307px; 
+}
+
+.mercurij .mercurij_second_title {
+    margin-left: 116px;
+    font-size: 32px;
+}
+
+.mercurij .mercurij_text {
+    font-size: 16px;
+}
+
+.venera {
+    margin-left: 190px;
+    font-size: 32px;
+}
+
+.zemla .zemla_img {
+    margin-left: 473px;
+}
+
+.zemla .zemla_title {
+    margin-left: 480px;
+    font-size: 32px;
+}
+
+.mars .mars_img {
+    margin-left: 259px;
+}
+
+.mars .mars_subtitle {
+    margin-left: 230px;
+    font-size: 32px;
+}
+
+.youpiter .youpiter_subtitle {
+    font-size: 32px;
+    margin-left: 440px;
+}
+
+.saturn .saturn_title {
+    font-size: 32px;
+    margin-left: 500px;
+}
+
+.uran .uran_title {
+    font-size: 32px;
+    text-align: center;
+}
+
+.neptun .neptun_img {
+    margin-left: 439px;
+}
+
+.neptun .neptun_title {
+    text-align: center;
+    font-size: 32px;
+}
+
